@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.2297084096353501
 name: Gardie
+navigation:
+  - name: Espelhos cosméticos Gardie
+    url: 'https://www.gardie.com.br'
+    type: external
 title: Espelhos cosméticos Gardie
 description: Seu momento de reflexão
