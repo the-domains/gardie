@@ -1,0 +1,14 @@
+layout_spectrum: 0.2297084096353501
+typography_spectrum: 0.7754263654351234
+color:
+  brandStrength: 0.9063878788147122
+  lightness: 0.3768621569033712
+  saturation: 0.06351441773585975
+  rhythmicContrast: 0.13634798559360206
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Gardie
