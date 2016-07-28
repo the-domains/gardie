@@ -1,4 +1,3 @@
-layout_spectrum: 0.2297084096353501
 typography_spectrum: 0.7754263654351234
 color:
   brandStrength: 0.9063878788147122
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.2297084096353501
 name: Gardie
 title: Espelhos Gardie
+description: Seu momento de reflexão
